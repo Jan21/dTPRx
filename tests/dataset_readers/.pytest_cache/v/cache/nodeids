@@ -1,0 +1,3 @@
+[
+  "semantic_scholar_dataset_reader_test.py::TestSemanticScholarDatasetReader::test_read_from_file"
+]
