@@ -1,3 +1,4 @@
-from my_library.dataset_readers import *
-from my_library.models import *
-from my_library.predictors import *
+from dTPRxLib.dataset_readers import *
+from dTPRxLib.models import *
+from dTPRxLib.predictors import *
+from dTPRxLib.encoders import *

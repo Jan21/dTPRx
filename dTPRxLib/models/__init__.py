@@ -1,1 +1,1 @@
-from my_library.models.academic_paper_classifier import AcademicPaperClassifier
+from dTPRxLib.models.dTPRxNet import dTPRxNet
